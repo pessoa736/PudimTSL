@@ -1,6 +1,8 @@
 # PudimTSL
 
 > **Status: on hold.** I'm still evaluating whether this library is useful. If I come back to it, I will most likely rewrite it from scratch.
+>
+> **Note:** my web work moved to [Action-Chainsaw](https://github.com/pessoa736/Action-Chainsaw), a new framework that uses [Pegasus](https://github.com/EvandroLG/pegasus.lua) as its web server, and [PudimServer](https://github.com/pessoa736/PudimServerAPIs) may not be rewritten. That makes the need for this library even less clear.
 
 A small Lua helper that creates a **local certificate authority** and uses it to sign **HTTPS certificates for development servers**.
 
